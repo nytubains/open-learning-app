@@ -28,12 +28,14 @@ These are some survey guidelines for UX research project.
 
 ## Pillar 4
 
-**Simplicity**
+**Simplicity and agility**
 
 1.  Make the entire process simpler for the user by trying to reach the objective with easy and less number of questions.
 -   Vocabulary used
 -   Length of questions
 -   Type of questions
+
+2. start small and build upon what we learn
 
 ## Concerns
 
